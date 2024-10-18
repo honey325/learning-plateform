@@ -32,15 +32,15 @@ This is an e-learning platform inspired by Unacademy, built using [NestJS](https
 
 ## Getting Started
 
-1. Clone the repository
 
 ```bash
+1. Clone the repository
+
 git clone https://github.com/your-username/e-learning-platform.git
 cd e-learning-platform
 
 2. Install dependencies
 
-```bash
 npm install
 
 3. Set up environment variables
@@ -64,9 +64,9 @@ DB_DATABASE=your_db_name
 4. Run migrations
 
 Run the following command to generate database tables based on the TypeORM entities.
-```bash
+
 npm run typeorm migration:run
 
 5. Run the application
-```bash
+
 npm run start:dev
