@@ -1,5 +1,5 @@
 {
-  "name": "scarp_selling_portal",
+  "name": "E-Learning-Platform",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -40,6 +40,7 @@
     "class-validator": "^0.14.1",
     "cookie-parser": "^1.4.6",
     "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
     "pg": "^8.12.0",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
